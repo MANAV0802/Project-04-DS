@@ -21,5 +21,5 @@ Thank you for reviewing my internship task submission!</h3> <br>
 
 For any inquiries or feedback regarding this project, please contact:
 
-Manav PATEL (LinkedIn) https://www.linkedin.com/in/manav-patel-b79192312/ 
+Manav PATEL (LinkedIn) https://www.linkedin.com/in/manav-patel-b79192312/ <br>
 Email: manavkpatel82@gmail.com
